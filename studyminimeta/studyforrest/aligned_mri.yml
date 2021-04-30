@@ -1,0 +1,81 @@
+study:
+  name: Pre-aligned MRI data
+
+  #purpose:
+  #  Identify what determines intelligence
+  #  in rodents and whether it is related
+  #  to food.
+
+  #start_date: 31.10.1990
+  #end_date: 2010-12-22
+
+  keyword:
+    - studyforrest
+
+  principal_investigator: m.hanke@fz-juelich.de   # from github contributors
+
+  contributor:      # from github contributors
+    - a.wagner@fz-juelich.de
+    - l.waite@fz-juelich.de
+
+  #funding: NIH study funds
+
+dataset:
+  name: Pre-aligned MRI data
+
+  location: https://github.com/psychoinformatics-de/studyforrest-data-aligned
+
+  description:
+    "This dataset contains data derived from the raw data releases of the
+     studyforrest.org-project. In particular these are:
+
+     * BOLD fMRI timeseries aligned to subject-specific template images
+       and using transformations available from
+       https://github.com/psychoinformatics-de/studyforrest-data-templatetransforms"
+
+  #standard:
+  #  - dicom
+  #  - nifti
+  #  - bids
+
+  keyword:
+    - studyforrest
+
+  author:  # from github contributors
+    - m.hanke@fz-juelich.de
+    - a.wagner@fz-juelich.de
+    - l.waite@fz-juelich.de
+
+  #funding:
+  #  - DFG dataset funds
+  #  - NIH dataset funds
+
+person:
+  m.hanke@fz-juelich.de:
+    given_name: Michael
+    last_name: Hanke
+    title: Prof. Dr.
+
+  a.wagner@fz-juelich.de:
+    given_name: Adina
+    last_name: Wagner
+    title: M.Sc.
+
+  l.waite@fz-juelich.de:
+    given_name: Laura
+    last_name: Waite
+
+
+
+Pre-aligned MRI data
+====================
+
+This repository contains data derived from the raw data releases of the
+*studyforrest.org* project. In particular these are:
+
+* BOLD fMRI timeseries aligned to subject-specific template images
+  and using transformations available from
+  https://github.com/psychoinformatics-de/studyforrest-data-templatetransforms
+
+For more information about the project visit: http://studyforrest.org
+

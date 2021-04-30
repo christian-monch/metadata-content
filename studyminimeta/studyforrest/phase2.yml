@@ -1,0 +1,116 @@
+study:
+  name: studyforrest_phase2
+  keyword: some_keyword
+  principal_investigator: m.hanke@fz-juelich.de
+
+
+dataset:
+  name: studyforrest_phase2
+
+  location: https://github.com/psychoinformatics-de/studyforrest-data-phase2
+
+  author:
+    - m.hanke@fz-juelich.de
+    - falko.kaule@med.ovgu.de
+    - ayan.sengupta@nottingham.ac.uk
+    - florian.baumgartner@ovgu.de
+    - swaroopgj@gmail.com
+    - c.haeusler@fz-juelich.de
+    - michael@hoffmann@med.ovgu.de
+    - vittorio.iacovella@gmail.com
+    - daniel.kottke@ovgu.de
+    - Joerg.Stadler@ifn-magdeburg.de
+
+  description:
+    "Extension of the dataset published in Hanke et al.
+     (2014; doi:10.1038/sdata.2014.3) with additional acquisitions for 15 of
+     the original 20 participants. These additions include: retinotopic mapping,
+     a localizer paradigm for higher visual areas (FFA, EBA, PPA), and another
+     2h movie recording with 3T full-brain BOLD fMRI with simultaneous 1000 Hz
+     eyetracking.
+
+     We acknowledge the support of the Combinatorial NeuroImaging Core
+     Facility at the Leibniz Institute for Neurobiology in Magdeburg, and
+     the German federal state of Saxony-Anhalt, Project: Center for
+     Behavioral Brain Sciences. This research was, in part, also supported
+     by the German Federal Ministry of Education and Research (BMBF) as
+     part of a US-German collaboration in computational neuroscience (CRCNS),
+     co-funded by the BMBF and the US National Science Foundation
+     (BMBF 01GQ1112; NSF 1129855). Work on the data-sharing technology
+     employed for this research was supported by US-German CRCNS project,
+     co-funded by the BMBF and the US National Science Foundation
+     (BMBF 01GQ1411; NSF 1429999)."
+
+  funding:
+    - BMBF 01GQ1112
+    - NSF 1129855
+    - BMBF 01GQ1411
+    - NSF 1429999
+
+  standard:
+   - BIDS
+
+
+person:
+
+  Joerg.Stadler@ifn-magdeburg.de:
+    given_name: Jörg
+    last_name: Stadler
+
+  michael@hoffmann@med.ovgu.de:
+    given_name: Michael
+    last_name: Hoffmann
+
+  florian.baumgartner@ovgu.de:
+    given_name: Florian J.
+    last_name: Baumgartner
+
+  falko.kaule@med.ovgu.de:
+    given_name: Falko R.
+    last_name: Kaule
+
+  vittorio.iacovella@gmail.com:
+    given_name: Vittorio
+    last_name: Iacovella
+
+  swaroopgj@gmail.com:
+    given_name: J. Swaroop
+    last_name: Guntupalli
+
+  ayan.sengupta@nottingham.ac.uk:
+    given_name: Ayan
+    last_name: Sengupta
+
+  daniel.kottke@ovgu.de:
+    given_name: Daniel
+    last_name: Kottke
+
+  oliver.speck@ovgu.de:
+    given_name: Oliver
+    last_name: Speck
+
+  renat.yakupov@ovgu.de:
+    given_name: Renat
+    last_name: Yakupov
+
+  martin.kanowski@ovgu.de:
+    given_name: Martin
+    last_name: Kanowski
+
+  claus.tempelmann@ovgu.de:
+    given_name: Claus
+    last_name: Tempelmann
+
+  stefan.pollmann@ovgu.de:
+    given_name: Stefan
+    last_name: Pollmann
+
+  m.hanke@fz-juelich.de:
+    given_name: Michael
+    last_name: Hanke
+    title: Prof. Dr.
+
+  c.haeusler@fz-juelich.de:
+    given_name: Christian
+    last_name: Häusler
+    title: M.Sc.

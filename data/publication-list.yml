@@ -1,0 +1,987 @@
+---
+# created from: Publication: Pläschke, R. N., Cieslik, E. C., Müller, V. I., Hoffstaedter, F., Plachti, A., Varikuti, D. P., Goosses, M., Latz, A., Caspers, S., Jockwitz, C., Moebus, S., Gruber, O., Eickhoff, C. R., Reetz, K., Heller, J., Südmeyer, M., Mathys, C., Caspers, J., Grefkes, C., Eickhoff, S. B. (2017). On the integrity of functional brain networks in schizophrenia, Parkinson’s disease, and advanced age: Evidence from connectivity-based single-subject classification. Human Brain Mapping, 38(12), 5845–5858. https://doi.org/10.1002/hbm.23763
+publication:
+  - title: "On the integrity of functional brain networks in schizophrenia, Parkinson’s disease, and advanced age: Evidence from connectivity-based single-subject classification"
+    author:
+      - r.n.plaeschke@example.com
+      - e.cieslik@fz-juelich.de
+      - v.mueller@fz-juelich.de
+      - f.hoffstaedter@fz-juelich.de
+      - a.plachti@fz-juelich.de
+      - d.p.varikuti@example.com
+      - m.goosses@example.com
+      - a.latz@example.com
+      - s.caspers@example.com
+      - c.jockwitz@example.com
+      - s.moebus@example.com
+      - o.gruber@example.com
+      - c.r.eickhoff@example.com
+      - k.reetz@fz-juelich.de
+      - j.heller@example.com
+      - m.südmeyer@example.com
+      - c.mathys@example.com
+      - j.caspers@example.com
+      - c.grefkes@fz-juelich.de
+      - s.eickhoff@fz-juelich.de
+
+    year: 2017
+    publication: Human Brain Mapping 
+
+person:
+  r.n.plaeschke@example.com:
+    given_name: Rachel N
+    last_name: Pläschke
+    orcid-id: https://orcid.org/0000-0003-0505-2531
+
+  e.cieslik@fz-juelich.de:
+    given_name: Edna
+    last_name: Cieslik
+    title: Dr. rer. med.
+
+  v.mueller@fz-juelich.de:
+    given_name: Veronika
+    last_name: Müller
+    title: Dr. rer. med.
+
+  f.hoffstaedter@fz-juelich.de:
+    given_name: Felix
+    last_name: Hoffstaedter
+    title: Dr.
+
+  a.plachti@fz-juelich.de:
+    given_name: Anna
+    last_name: Plachti
+    title: M.Sc.
+
+  d.p.varikuti@example.com:
+    given_name: D. P.
+    last_name: Varikuti
+
+  m.goosses@example.com:
+    given_name: M.
+    last_name: Goosses
+
+  a.latz@example.com:
+    given_name: A.
+    last_name: Latz
+
+  s.caspers@example.com:
+    given_name: S.
+    last_name: Caspers
+
+  c.jockwitz@example.com:
+    given_name: C.
+    last_name: Jockwitz
+
+  s.moebus@example.com:
+    given_name: S.
+    last_name: Moebus
+
+  o.gruber@example.com:
+    given_name: O.
+    last_name: Gruber
+
+  c.r.eickhoff@example.com:
+    given_name: C. R.
+    last_name: Eickhoff
+
+  k.reetz@fz-juelich.de:
+    given_name: Kathrin
+    last_name: Reetz
+    title: Prof. Dr.
+
+  j.heller@example.com:
+    given_name: J.
+    last_name: Heller
+
+  m.südmeyer@example.com:
+    given_name: M.
+    last_name: Südmeyer
+
+  c.mathys@example.com:
+    given_name: C.
+    last_name: Mathys
+
+  j.caspers@example.com:
+    given_name: J.
+    last_name: Caspers
+
+  c.grefkes@fz-juelich.de:
+    given_name: Christian
+    last_name: Grefkes
+    title: Univ.-Prof. Dr. med. habil.
+
+  s.eickhoff@fz-juelich.de:
+    given_name: Simon
+    last_name: Eickhoff
+    title: Prof. Dr.
+
+
+
+---
+#created from: Publication: Pläschke, R. N., Cieslik, E. C., Müller, V. I., Hoffstaedter, F., Plachti, A., Varikuti, D. P., Goosses, M., Latz, A., Caspers, S., Jockwitz, C., Moebus, S., Gruber, O., Eickhoff, C. R., Reetz, K., Heller, J., Südmeyer, M., Mathys, C., Caspers, J., Grefkes, C., Eickhoff, S. B. (2018). Corrigendum to “On the integrity of functional brain networks in schizophrenia, Parkinson’s disease, and advanced age: Evidence from connectivity-based single-subject classification”. Human Brain Mapping, 39(11), 4633–4635. https://doi.org/10.1002/hbm.24406
+publication:
+  - title: "Corrigendum to “On the integrity of functional brain networks in schizophrenia, Parkinson’s disease, and advanced age: Evidence from connectivity-based single-subject classification”"
+    author:
+      - r.n.plaeschke@example.com
+      - e.cieslik@fz-juelich.de
+      - v.mueller@fz-juelich.de
+      - f.hoffstaedter@fz-juelich.de
+      - a.plachti@fz-juelich.de
+      - d.p.varikuti@example.com
+      - m.goosses@example.com
+      - a.latz@example.com
+      - s.caspers@example.com
+      - c.jockwitz@example.com
+      - s.moebus@example.com
+      - o.gruber@example.com
+      - c.r.eickhoff@example.com
+      - k.reetz@fz-juelich.de
+      - j.heller@example.com
+      - m.südmeyer@example.com
+      - c.mathys@example.com
+      - j.caspers@example.com
+      - c.grefkes@fz-juelich.de
+      - s.eickhoff@fz-juelich.de
+
+    year: 2018
+    publication: Human Brain Mapping 
+
+person:
+  r.n.plaeschke@example.com:
+    given_name: Rachel N
+    last_name: Pläschke
+    orcid-id: https://orcid.org/0000-0003-0505-2531
+
+  e.cieslik@fz-juelich.de:
+    given_name: Edna
+    last_name: Cieslik
+    title: Dr. rer. med.
+
+  v.mueller@fz-juelich.de:
+    given_name: Veronika
+    last_name: Müller
+    title: Dr. rer. med.
+
+  f.hoffstaedter@fz-juelich.de:
+    given_name: Felix
+    last_name: Hoffstaedter
+    title: Dr.
+
+  a.plachti@fz-juelich.de:
+    given_name: Anna
+    last_name: Plachti
+    title: M.Sc.
+
+  d.p.varikuti@example.com:
+    given_name: D. P.
+    last_name: Varikuti
+
+  m.goosses@example.com:
+    given_name: M.
+    last_name: Goosses
+
+  a.latz@example.com:
+    given_name: A.
+    last_name: Latz
+
+  s.caspers@example.com:
+    given_name: S.
+    last_name: Caspers
+
+  c.jockwitz@example.com:
+    given_name: C.
+    last_name: Jockwitz
+
+  s.moebus@example.com:
+    given_name: S.
+    last_name: Moebus
+
+  o.gruber@example.com:
+    given_name: O.
+    last_name: Gruber
+
+  c.r.eickhoff@example.com:
+    given_name: C. R.
+    last_name: Eickhoff
+
+  k.reetz@fz-juelich.de:
+    given_name: Kathrin
+    last_name: Reetz
+    title: Prof. Dr.
+
+  j.heller@example.com:
+    given_name: J.
+    last_name: Heller
+
+  m.südmeyer@example.com:
+    given_name: M.
+    last_name: Südmeyer
+
+  c.mathys@example.com:
+    given_name: C.
+    last_name: Mathys
+
+  j.caspers@example.com:
+    given_name: J.
+    last_name: Caspers
+
+  c.grefkes@fz-juelich.de:
+    given_name: Christian
+    last_name: Grefkes
+    title: Univ.-Prof. Dr. med. habil.
+
+  s.eickhoff@fz-juelich.de:
+    given_name: Simon
+    last_name: Eickhoff
+    title: Prof. Dr.
+
+
+
+---
+#created from: Publication: Müller, V. I., Habel, U., Derntl, B., Schneider, F., Zilles, K., Turetsky, B. I.et al. (2011). Incongruence effects in crossmodal emotional integration. Neuroimage, 54(3), 2257-2266. doi: 10.1016/j.neuroimage.2010.10.047
+publication:
+  - title: "Incongruence effects in crossmodal emotional integration"
+    author:
+      - v.mueller@fz-juelich.de
+      - u.habel@fz-juelich.de
+      - birgit.derntl@med.uni-tuebingen.de
+      - f.schneider@example.com
+      - k.zilles@example.com
+      - b.i.et.al.turetsky@example.com
+
+    year: 2011
+    publication: Neuroimage 
+
+person:
+  v.mueller@fz-juelich.de:
+    given_name: Veronika
+    last_name: Müller
+    title: Dr. rer. med.
+
+  u.habel@fz-juelich.de:
+    given_name: Ute
+    last_name: Habel
+    title: Prof.
+
+  birgit.derntl@med.uni-tuebingen.de:
+    given_name: Birgit
+    last_name: Derntl
+    orcid-id: https://orcid.org/0000-0003-0133-4486
+    title: Prof. Dr.
+
+  f.schneider@example.com:
+    given_name: F.
+    last_name: Schneider
+
+  k.zilles@example.com:
+    given_name: K.
+    last_name: Zilles
+
+  b.i.et.al.turetsky@example.com:
+    given_name: B. I. et al.
+    last_name: Turetsky
+
+
+
+---
+#created from: Publication: Müller, V. I., Cieslik, E. C., Turetsky, B. I. & Eickhoff, S. B. (2012). Crossmodal interactions in audiovisual emotion processing. Neuroimage, 60(1), 553-561. doi: 10.1016/j.neuroimage.2011.12.007
+publication:
+  - title: "Crossmodal interactions in audiovisual emotion processing"
+    author:
+      - v.mueller@fz-juelich.de
+      - e.cieslik@fz-juelich.de
+      - b.i.turetsky@example.com
+      - s.eickhoff@fz-juelich.de
+
+    year: 2012
+    publication: Neuroimage 
+
+person:
+  v.mueller@fz-juelich.de:
+    given_name: Veronika
+    last_name: Müller
+    title: Dr. rer. med.
+
+  e.cieslik@fz-juelich.de:
+    given_name: Edna
+    last_name: Cieslik
+    title: Dr. rer. med.
+
+  b.i.turetsky@example.com:
+    given_name: B. I.
+    last_name: Turetsky
+
+  s.eickhoff@fz-juelich.de:
+    given_name: Simon
+    last_name: Eickhoff
+    title: Prof. Dr.
+
+
+
+---
+#created from: Publication: Müller, V. I., Cieslik, E. C., Laird, A. R., Fox, P. T. & Eickhoff, S. B. (2013). Dysregulated left inferior parietal activity in schizophrenia and depression: functional connectivity and characterization. Front Hum Neurosci, 7, 268. doi: 10.3389/fnhum.2013.00268
+publication:
+  - title: "Dysregulated left inferior parietal activity in schizophrenia and depression: functional connectivity and characterization"
+    author:
+      - v.mueller@fz-juelich.de
+      - e.cieslik@fz-juelich.de
+      - alaird@fiu.edu
+      - fox@uthscsa.edu
+      - s.eickhoff@fz-juelich.de
+
+    year: 2013
+    publication: Front Hum Neurosci 
+
+person:
+  v.mueller@fz-juelich.de:
+    given_name: Veronika
+    last_name: Müller
+    title: Dr. rer. med.
+
+  e.cieslik@fz-juelich.de:
+    given_name: Edna
+    last_name: Cieslik
+    title: Dr. rer. med.
+
+  alaird@fiu.edu:
+    given_name: Angela R.
+    last_name: Laird
+    title: Prof. Dr.
+
+  fox@uthscsa.edu:
+    given_name: Peter T
+    last_name: Fox
+    orcid-id: https://orcid.org/0000-0002-0465-2028
+    title: M.D.
+
+  s.eickhoff@fz-juelich.de:
+    given_name: Simon
+    last_name: Eickhoff
+    title: Prof. Dr.
+
+
+
+---
+#created from: Publication: Müller, V. I., Cieslik, E. C., Kellermann, T. S. & Eickhoff, S. B. (2014). Crossmodal emotional integration in major depression. Soc Cogn Affect Neurosci, 9(6), 839-848. doi: 10.1093/scan/nst057
+publication:
+  - title: "Crossmodal emotional integration in major depression"
+    author:
+      - v.mueller@fz-juelich.de
+      - e.cieslik@fz-juelich.de
+      - t.kellermann@fz-juelich.de
+      - s.eickhoff@fz-juelich.de
+
+    year: 2014
+    publication: Soc Cogn Affect Neurosci 
+
+person:
+  v.mueller@fz-juelich.de:
+    given_name: Veronika
+    last_name: Müller
+    title: Dr. rer. med.
+
+  e.cieslik@fz-juelich.de:
+    given_name: Edna
+    last_name: Cieslik
+    title: Dr. rer. med.
+
+  t.kellermann@fz-juelich.de:
+    given_name: Thilo
+    last_name: Kellermann
+    title: Dr.
+
+  s.eickhoff@fz-juelich.de:
+    given_name: Simon
+    last_name: Eickhoff
+    title: Prof. Dr.
+
+
+
+---
+#created from: Publication: Camilleri, Julia A., Reid, Andrew T., Müller, V., Grefkes, Christian, Amunts, Katrin, Eickhoff, Simon B. (2015). Multi-modal imaging of neural correlates of motor speed performance in the trail making test. Frontiers in neurology, 6(219), doi: 10.3389/fneur.2015.00219
+publication:
+  - title: "Multi-modal imaging of neural correlates of motor speed performance in the trail making test"
+    author:
+      - j.camilleri@fz-juelich.de
+      - andrew.t.reid@example.com
+      - v.mueller@fz-juelich.de
+      - c.grefkes@fz-juelich.de
+      - katrin.amunts@example.com
+      - s.eickhoff@fz-juelich.de
+
+    year: 2015
+    publication: Frontiers in neurology 
+
+person:
+  j.camilleri@fz-juelich.de:
+    given_name: Julia
+    last_name: Camilleri
+    title: Dr.
+
+  andrew.t.reid@example.com:
+    given_name: Andrew T
+    last_name: Reid
+
+  v.mueller@fz-juelich.de:
+    given_name: Veronika
+    last_name: Müller
+    title: Dr. rer. med.
+
+  c.grefkes@fz-juelich.de:
+    given_name: Christian
+    last_name: Grefkes
+    title: Univ.-Prof. Dr. med. habil.
+
+  katrin.amunts@example.com:
+    given_name: Katrin
+    last_name: Amunts
+
+  s.eickhoff@fz-juelich.de:
+    given_name: Simon
+    last_name: Eickhoff
+    title: Prof. Dr.
+
+
+
+---
+#created from: Publication: Camilleri, Julia A., Müller, V. I., Fox, P. T., Laird, A. R., Hoffstaedter, F., Kalenscher, T., Eickhoff, S. B. (2018). Definition and characterization of an extended multiple-demand network. Neuroimage, 2018(165), 138‐147. doi:10.1016/j.neuroimage.2017.10.020
+publication:
+  - title: "Definition and characterization of an extended multiple-demand network"
+    author:
+      - j.camilleri@fz-juelich.de
+      - v.mueller@fz-juelich.de
+      - fox@uthscsa.edu
+      - alaird@fiu.edu
+      - f.hoffstaedter@fz-juelich.de
+      - tobias.kalenscher@hhu.de
+      - s.eickhoff@fz-juelich.de
+
+    year: 2018
+    publication: Neuroimage 
+
+person:
+  j.camilleri@fz-juelich.de:
+    given_name: Julia
+    last_name: Camilleri
+    title: Dr.
+
+  v.mueller@fz-juelich.de:
+    given_name: Veronika
+    last_name: Müller
+    title: Dr. rer. med.
+
+  fox@uthscsa.edu:
+    given_name: Peter T
+    last_name: Fox
+    orcid-id: https://orcid.org/0000-0002-0465-2028
+    title: M.D.
+
+  alaird@fiu.edu:
+    given_name: Angela R.
+    last_name: Laird
+    title: Prof. Dr.
+
+  f.hoffstaedter@fz-juelich.de:
+    given_name: Felix
+    last_name: Hoffstaedter
+    title: Dr.
+
+  tobias.kalenscher@hhu.de:
+    given_name: Tobias
+    last_name: Kalenscher
+    title: Prof. Dr.
+
+  s.eickhoff@fz-juelich.de:
+    given_name: Simon
+    last_name: Eickhoff
+    title: Prof. Dr.
+
+
+
+---
+#created from: Publication: Müller, V. I., Kellermann, T. S., Seligman, S. C., Turetsky, B. I. & Eickhoff, S. B. (2014). Modulation of affective face processing deficits in Schizophrenia by congruent emotional sounds. Soc Cogn Affect Neurosci, 9(4), 436-444. doi: 10.1093/scan/nss107
+publication:
+  - title: "Modulation of affective face processing deficits in Schizophrenia by congruent emotional sounds"
+    author:
+      - v.mueller@fz-juelich.de
+      - t.kellermann@fz-juelich.de
+      - s.c.seligman@example.com
+      - b.i.turetsky@example.com
+      - s.eickhoff@fz-juelich.de
+
+    year: 2014
+    publication: Soc Cogn Affect Neurosci 
+
+person:
+  v.mueller@fz-juelich.de:
+    given_name: Veronika
+    last_name: Müller
+    title: Dr. rer. med.
+
+  t.kellermann@fz-juelich.de:
+    given_name: Thilo
+    last_name: Kellermann
+    title: Dr.
+
+  s.c.seligman@example.com:
+    given_name: S. C.
+    last_name: Seligman
+
+  b.i.turetsky@example.com:
+    given_name: B. I.
+    last_name: Turetsky
+
+  s.eickhoff@fz-juelich.de:
+    given_name: Simon
+    last_name: Eickhoff
+    title: Prof. Dr.
+
+
+
+---
+#created from: Publication: Müller, V. I., Langner, R., Cieslik, E. C., Rottschy, C. & Eickhoff, S. B. (2015). Interindividual differences in cognitive flexibility: influence of gray matter volume, functional connectivity and trait impulsivity. Brain Struct Funct, 220(4), 2401-2414. doi: 10.1007/s00429-014-0797-6
+publication:
+  - title: "Interindividual differences in cognitive flexibility: influence of gray matter volume, functional connectivity and trait impulsivity"
+    author:
+      - v.mueller@fz-juelich.de
+      - r.langner@fz-juelich.de
+      - e.cieslik@fz-juelich.de
+      - c.rottschy@example.com
+      - s.eickhoff@fz-juelich.de
+
+    year: 2015
+    publication: Brain Struct Funct 
+
+person:
+  v.mueller@fz-juelich.de:
+    given_name: Veronika
+    last_name: Müller
+    title: Dr. rer. med.
+
+  r.langner@fz-juelich.de:
+    given_name: Robert
+    last_name: Langner
+    title: Dr. phil.
+
+  e.cieslik@fz-juelich.de:
+    given_name: Edna
+    last_name: Cieslik
+    title: Dr. rer. med.
+
+  c.rottschy@example.com:
+    given_name: Claudia
+    last_name: Rottschy
+
+  s.eickhoff@fz-juelich.de:
+    given_name: Simon
+    last_name: Eickhoff
+    title: Prof. Dr.
+
+
+
+---
+#created from: Publication: Müller, V. I., Hohner, Y. & Eickhoff, S. B. (2018). Influence of task instructions and stimuli on the neural network of face processing: An ALE meta-analysis. Cortex, 103, 240-255. doi: 10.1016/j.cortex.2018.03.011
+publication:
+  - title: "Influence of task instructions and stimuli on the neural network of face processing: An ALE meta-analysis"
+    author:
+      - v.mueller@fz-juelich.de
+      - y.hohner@example.com
+      - s.eickhoff@fz-juelich.de
+
+    year: 2018
+    publication: Cortex 
+
+person:
+  v.mueller@fz-juelich.de:
+    given_name: Veronika
+    last_name: Müller
+    title: Dr. rer. med.
+
+  y.hohner@example.com:
+    given_name: Y.
+    last_name: Hohner
+
+  s.eickhoff@fz-juelich.de:
+    given_name: Simon
+    last_name: Eickhoff
+    title: Prof. Dr.
+
+
+
+---
+#created from: Publication: Nostro, A. D., Müller, V. I., Varikuti, D. P., Plaschke, R. N., Hoffstaedter, F., Langner, R.et al. (2018). Predicting personality from network-based resting-state functional connectivity. Brain Struct Funct, 223(6), 2699-2719. doi: 10.1007/s00429-018-1651-z
+publication:
+  - title: "Predicting personality from network-based resting-state functional connectivity"
+    author:
+      - verificata@nin.knaw.nl
+      - v.mueller@fz-juelich.de
+      - d.p.varikuti@example.com
+      - r.n.plaschke@example.com
+      - f.hoffstaedter@fz-juelich.de
+      - r.langner@fz-juelich.de
+
+    year: 2018
+    publication: Brain Struct Funct 
+
+person:
+  verificata@nin.knaw.nl:
+    given_name: Alessandra D
+    last_name: Nostro
+    title: Dr.
+
+  v.mueller@fz-juelich.de:
+    given_name: Veronika
+    last_name: Müller
+    title: Dr. rer. med.
+
+  d.p.varikuti@example.com:
+    given_name: D. P.
+    last_name: Varikuti
+
+  r.n.plaschke@example.com:
+    given_name: R. N.
+    last_name: Plaschke
+
+  f.hoffstaedter@fz-juelich.de:
+    given_name: Felix
+    last_name: Hoffstaedter
+    title: Dr.
+
+  r.langner@fz-juelich.de:
+    given_name: Robert
+    last_name: Langner
+    title: Dr. phil.
+
+
+
+---
+#created from: Publication: Nostro, A. D., Müller, V. I., Reid, A. T. & Eickhoff, S. B. (2017). Correlations Between Personality and Brain Structure: A Crucial Role of Gender. Cereb Cortex, 27(7), 3698-3712. doi: 10.1093/cercor/bhw191
+publication:
+  - title: "Correlations Between Personality and Brain Structure: A Crucial Role of Gender"
+    author:
+      - verificata@nin.knaw.nl
+      - v.mueller@fz-juelich.de
+      - andrew.t.reid@example.com
+      - s.eickhoff@fz-juelich.de
+
+    year: 2017
+    publication: Cereb Cortex 
+
+person:
+  verificata@nin.knaw.nl:
+    given_name: Alessandra D
+    last_name: Nostro
+    title: Dr.
+
+  v.mueller@fz-juelich.de:
+    given_name: Veronika
+    last_name: Müller
+    title: Dr. rer. med.
+
+  andrew.t.reid@example.com:
+    given_name: Andrew T
+    last_name: Reid
+
+  s.eickhoff@fz-juelich.de:
+    given_name: Simon
+    last_name: Eickhoff
+    title: Prof. Dr.
+
+
+
+---
+#created from: Publication: Müller, V. I., Cieslik, E. C., Serbanescu, I., Laird, A. R., Fox, P. T. & Eickhoff, S. B. (2017). Altered Brain Activity in Unipolar Depression Revisited: Meta-analyses of Neuroimaging Studies. JAMA Psychiatry, 74(1), 47-55. doi: 10.1001/jamapsychiatry.2016.2783
+publication:
+  - title: "Altered Brain Activity in Unipolar Depression Revisited: Meta-analyses of Neuroimaging Studies"
+    author:
+      - v.mueller@fz-juelich.de
+      - e.cieslik@fz-juelich.de
+      - ilinca.serbanescu@eaad.net
+      - alaird@fiu.edu
+      - fox@uthscsa.edu
+      - s.eickhoff@fz-juelich.de
+
+    year: 2017
+    publication: JAMA Psychiatry 
+
+person:
+  v.mueller@fz-juelich.de:
+    given_name: Veronika
+    last_name: Müller
+    title: Dr. rer. med.
+
+  e.cieslik@fz-juelich.de:
+    given_name: Edna
+    last_name: Cieslik
+    title: Dr. rer. med.
+
+  ilinca.serbanescu@eaad.net:
+    given_name: Ilinca
+    last_name: Serbanescu
+    title: M.Sc.
+
+  alaird@fiu.edu:
+    given_name: Angela R.
+    last_name: Laird
+    title: Prof. Dr.
+
+  fox@uthscsa.edu:
+    given_name: Peter T
+    last_name: Fox
+    orcid-id: https://orcid.org/0000-0002-0465-2028
+    title: M.D.
+
+  s.eickhoff@fz-juelich.de:
+    given_name: Simon
+    last_name: Eickhoff
+    title: Prof. Dr.
+
+
+
+---
+#created from: Publication: Kogler, L., Müller, V. I., Seidel, E. M., Boubela, R., Kalcher, K., Moser, E., Habel, Ute, Gur, Ruben. C., Eickhoff, Simon B., Derntl, Birgit (2016). Sex differences in the functional connectivity of the amygdalae in association with cortisol. Neuroimage, 134, 410-423. doi: 10.1016/j.neuroimage.2016.03.064
+publication:
+  - title: "Sex differences in the functional connectivity of the amygdalae in association with cortisol"
+    author:
+      - lydia.kogler@med.uni-tuebingen.de
+      - v.mueller@fz-juelich.de
+      - eva-maria.seidel@univie.ac.at
+      - roland.boubela@meduniwien.ac.at
+      - klaudius.kalcher@example.com
+      - ewald.moser@meduniwien.ac.at
+      - u.habel@fz-juelich.de
+      - gur@upenn.edu
+      - s.eickhoff@fz-juelich.de
+      - birgit.derntl@med.uni-tuebingen.de
+
+    year: 2016
+    publication: Neuroimage 
+
+person:
+  lydia.kogler@med.uni-tuebingen.de:
+    given_name: Lydia
+    last_name: Kogler
+    title: Dr.
+
+  v.mueller@fz-juelich.de:
+    given_name: Veronika
+    last_name: Müller
+    title: Dr. rer. med.
+
+  eva-maria.seidel@univie.ac.at:
+    given_name: Eva-Maria
+    last_name: Seidel
+    title: Mag. Dr.
+
+  roland.boubela@meduniwien.ac.at:
+    given_name: Roland N.
+    last_name: Boubela
+    title: Dipl. Ing.
+
+  klaudius.kalcher@example.com:
+    given_name: Klaudius
+    last_name: Kalcher
+
+  ewald.moser@meduniwien.ac.at:
+    given_name: Ewald
+    last_name: Moser
+    orcid-id: https://orcid.org/0000-0001-8278-9583
+    title: Ao.Univ.-Prof. Dr.
+
+  u.habel@fz-juelich.de:
+    given_name: Ute
+    last_name: Habel
+    title: Prof.
+
+  gur@upenn.edu:
+    given_name: Ruben C.
+    last_name: Gur
+    orcid-id: https://orcid.org/0000-0002-9657-1996
+    title: Prof. Dr.
+
+  s.eickhoff@fz-juelich.de:
+    given_name: Simon
+    last_name: Eickhoff
+    title: Prof. Dr.
+
+  birgit.derntl@med.uni-tuebingen.de:
+    given_name: Birgit
+    last_name: Derntl
+    orcid-id: https://orcid.org/0000-0003-0133-4486
+    title: Prof. Dr.
+
+
+
+---
+#created from: Publication: Kogler, L., Müller, V. I., Chang, A., Eickhoff, S. B., Fox, P. T., Gur, R. C., Derntl, Birgit (2015). Psychosocial versus physiological stress - Meta-analyses on deactivations and activations of the neural correlates of stress reactions. Neuroimage, 119, 235-251. doi: 10.1016/j.neuroimage.2015.06.059
+publication:
+  - title: "Psychosocial versus physiological stress - Meta-analyses on deactivations and activations of the neural correlates of stress reactions"
+    author:
+      - lydia.kogler@med.uni-tuebingen.de
+      - v.mueller@fz-juelich.de
+      - amy.chang@example.com
+      - s.eickhoff@fz-juelich.de
+      - fox@uthscsa.edu
+      - gur@upenn.edu
+      - birgit.derntl@med.uni-tuebingen.de
+
+    year: 2015
+    publication: Neuroimage 
+
+person:
+  lydia.kogler@med.uni-tuebingen.de:
+    given_name: Lydia
+    last_name: Kogler
+    title: Dr.
+
+  v.mueller@fz-juelich.de:
+    given_name: Veronika
+    last_name: Müller
+    title: Dr. rer. med.
+
+  amy.chang@example.com:
+    given_name: Amy
+    last_name: Chang
+
+  s.eickhoff@fz-juelich.de:
+    given_name: Simon
+    last_name: Eickhoff
+    title: Prof. Dr.
+
+  fox@uthscsa.edu:
+    given_name: Peter T
+    last_name: Fox
+    orcid-id: https://orcid.org/0000-0002-0465-2028
+    title: M.D.
+
+  gur@upenn.edu:
+    given_name: Ruben C.
+    last_name: Gur
+    orcid-id: https://orcid.org/0000-0002-9657-1996
+    title: Prof. Dr.
+
+  birgit.derntl@med.uni-tuebingen.de:
+    given_name: Birgit
+    last_name: Derntl
+    orcid-id: https://orcid.org/0000-0003-0133-4486
+    title: Prof. Dr.
+
+
+
+---
+#created from: Publication: Doose-Grünefeld, S., Eickhoff, S. B. & Müller, V. I. (2015). Audiovisual emotional processing and neurocognitive functioning in patients with depression. Front Integr Neurosci, 9, 3. doi: 10.3389/fnint.2015.00003
+publication:
+  - title: "Audiovisual emotional processing and neurocognitive functioning in patients with depression"
+    author:
+      - s.doose-gruenefeld@fz-juelich.de
+      - s.eickhoff@fz-juelich.de
+      - v.mueller@fz-juelich.de
+
+    year: 2015
+    publication: Front Integr Neurosci 
+
+person:
+  s.doose-gruenefeld@fz-juelich.de:
+    given_name: Sophie
+    last_name: Doose-Grünefeld
+
+  s.eickhoff@fz-juelich.de:
+    given_name: Simon
+    last_name: Eickhoff
+    title: Prof. Dr.
+
+  v.mueller@fz-juelich.de:
+    given_name: Veronika
+    last_name: Müller
+    title: Dr. rer. med.
+
+
+---
+
+person:
+  ayan.sengupta@nottingham.ac.uk:
+    given_name: Ayan
+    last_name: Sengupta
+
+  oliver.speck@ovgu.de:
+    given_name: Oliver
+    last_name: Speck
+
+  renat.yakupov@ovgu.de:
+    given_name: Renat
+    last_name: Yakupov
+
+  martin.kanowski@ovgu.de:
+    given_name: Martin
+    last_name: Kanowski
+
+  claus.tempelmann@ovgu.de:
+    given_name: Claus
+    last_name: Tempelmann
+
+  stefan.pollmann@ovgu.de:
+    given_name: Stefan
+    last_name: Pollmann
+
+  m.hanke@fz-juelich.de:
+    given_name: Michael
+    last_name: Hanke
+    title: Prof. Dr.
+
+
+publication:
+  - title: "The effect of acquisition resolution on orientation decoding from V1: comparison of 3T and 7T"
+    author:
+      - ayan.sengupta@nottingham.ac.uk
+      - oliver.speck@ovgu.de
+      - renat.yakupov@ovgu.de
+      - martin.kanowski@ovgu.de
+      - claus.tempelmann@ovgu.de
+      - stefan.pollmann@ovgu.de
+      - m.hanke@fz-juelich.de
+
+    year: 2018
+    publication: bioRxiv
+    doi: [DOI: 10.1101/305417]
+
+  - title: "Spatial band-pass filtering aids decoding musical genres from auditory cortex 7T fMRI"
+    author:
+      - ayan.sengupta@nottingham.ac.uk
+      - stefan.pollmann@ovgu.de
+      - m.hanke@fz-juelich.de
+
+    year: 2018
+    publication: F1000Research
+    volume: 7
+    doi: [DOI: 10.12688/f1000research.13689.2]
+
+  - title: "The effect of acquisition resolution on orientation decoding from V1 BOLD fMRI at 7 Tesla"
+    author:
+      - ayan.sengupta@nottingham.ac.uk
+      - renat.yakupov@ovgu.de
+      - oliver.speck@ovgu.de
+      - stefan.pollmann@ovgu.de
+      - m.hanke@fz-juelich.de
+
+    year: 2017
+    publication: NeuroImage
+    volume: 148
+    pages: 64-76
+    doi: [DOI: 10.1016/j.neuroimage.2016.12.040]
+
+  - title: "Ultra high-field multi-resolution fMRI data for orientation decoding in visual cortex"
+    author:
+      - ayan.sengupta@nottingham.ac.uk
+      - renat.yakupov@ovgu.de
+      - oliver.speck@ovgu.de
+      - stefan.pollmann@ovgu.de
+      - m.hanke@fz-juelich.de
+
+    year: 2017
+    publication: Data in Brief
+    volume: 13
+    pages: 219-222
+    doi: [DOI: 10.1016/j.dib.2017.05.014]
+
+

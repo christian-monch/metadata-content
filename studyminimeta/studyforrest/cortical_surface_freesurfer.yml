@@ -1,0 +1,72 @@
+study:
+  name: Cortical Surface Freesurfer
+
+  #purpose:
+  #  Identify what determines intelligence
+  #  in rodents and whether it is related
+  #  to food.
+
+  #start_date: 31.10.1990
+  #end_date: 2010-12-22
+
+  keyword:
+    - studyforrest
+
+  principal_investigator: m.hanke@fz-juelich.de
+
+  contributor:
+    - a.wagner@fz-juelich.de
+    - l.waite@fz-juelich.de
+
+  #funding: NIH study funds
+
+dataset:
+  name: Cortical Surface Freesurfer
+
+  location: https://github.com/psychoinformatics-de/studyforrest-data-freesurfer
+
+  description:
+    "High-resolution structural images were used to generate the cortical surfaces
+     using FreeSurfer (v5.3.0, freely available at http://surfer.nmr.mgh.harvard.edu,
+     [Dale et al., 1999]). Additional high-resolution T2w images were included
+     in the reconstruction (recon-all -T2 t2file).
+
+     The surface quality was checked by inspecting the slice screenshots of QATool
+     (v1.1, freely available at http://ftp.nmr.mgh.harvard.edu/fswiki/QATools, [no
+     source paper linked]). The QATool was adopted to take sreenshots of the
+     high-resoluton pial surface."
+
+  #standard:
+  #  - dicom
+  #  - nifti
+  #  - bids
+
+  keyword:
+    - studyforrest
+
+  author:
+    - m.hanke@fz-juelich.de
+    - a.wagner@fz-juelich.de
+    - l.waite@fz-juelich.de
+
+  #funding:
+  #  - DFG dataset funds
+  #  - NIH dataset funds
+
+person:
+  m.hanke@fz-juelich.de:
+    given_name: Michael
+    last_name: Hanke
+    title: Prof. Dr.
+
+  a.wagner@fz-juelich.de:
+    given_name: Adina
+    last_name: Wagner
+    title: M.Sc.
+
+  l.waite@fz-juelich.de:
+    given_name: Laura
+    last_name: Waite
+
+
+

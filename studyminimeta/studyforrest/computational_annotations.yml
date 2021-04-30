@@ -1,0 +1,57 @@
+
+study:
+  name: Auto-detected stimulus features in the movie Forrest Gump
+
+  keyword:
+    - studyforrest
+
+  principal_investigator: m.hanke@fz-juelich.de
+
+  #contributor:
+  #  - b@fz-juelich.de
+  #  - c@fz-juelich.de
+  #funding: NIH study funds
+
+dataset:
+  name: Auto-detected stimulus features in the movie Forrest Gump
+
+  location: https://github.com/psychoinformatics-de/studyforrest-paper-faceannotation
+
+  description:
+    This dataset contains a few feature sets that were automatically extracted
+    from the stimulus movie of the studyforrest project using some computational
+    algorithm. In addition, this dataset only contains information that may be
+    useful for extracting further information from the movie.
+
+  #standard:
+  #  - dicom
+  #  - nifti
+  #  - bids
+
+  keyword:
+    - studyforrest
+
+  author:    # Taken from github contributors
+    - m.hanke@fz-juelich.de
+    - c.haeusler@fz-juelich.de
+    - a.wagner@fz-juelich.de
+
+  #funding:
+  #  - DFG dataset funds
+  #  - NIH dataset funds
+
+person:
+  m.hanke@fz-juelich.de:
+    given_name: Michael
+    last_name: Hanke
+    title: Prof. Dr.
+
+  c.haeusler@fz-juelich.de:
+    given_name: Christian
+    last_name: Häusler
+    title: M.Sc.
+
+  a.wagner@fz-juelich.de:
+    given_name: Adina
+    last_name: Wagner
+    title: M.Sc.

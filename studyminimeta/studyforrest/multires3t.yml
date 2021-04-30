@@ -1,0 +1,139 @@
+study:
+  name: some_study studyforrest_multires3t
+  keyword: some_keyword
+  principal_investigator: m.hanke@fz-juelich.de
+
+  #purpose: ***
+  # start_date: ***
+  # end_date: ***
+
+  #contributor:
+  #  - x@y
+
+dataset:
+  name: studyforrest_multires3t
+
+  location: https://github.com/psychoinformatics-de/studyforrest-data-multires3t
+
+  author:
+    - ayan.sengupta@nottingham.ac.uk
+    - oliver.speck@ovgu.de
+    - renat.yakupov@ovgu.de
+    - martin.kanowski@ovgu.de
+    - claus.tempelmann@ovgu.de
+    - stefan.pollmann@ovgu.de
+    - m.hanke@fz-juelich.de
+
+  description:
+    "Extension of a matching fMRI dataset (Sengupta, et al., 2017; OpenFMRI ds000113c) on participants performing a
+     central fixation task while being stimulated with oriented visual gratings. This dataset extends the previous one
+     with acquisitions for 3 matching spatial resolutions (1.4, 2.0, and 3.0 mm) at 3T (complementing the previous 7T
+     acquisitions at 0.8, 1.4, 2.0, and 3.0 mm). Five of the total of seven participants are identical in both datasets.
+     All participants are part of the studyforrest.org project.
+
+    - This research was enabled by a grant from the German Research Foundation (DFG) awarded to S. Pollmann and
+      O. Speck (DFG PO 548/15-1).
+
+    - This research was, in part, also supported by the German Federal Ministry of Education and Research (BMBF) as
+      part of a US-German collaboration in computational neuroscience (CRCNS), co-funded by the BMBF and the US
+      National Science Foundation (BMBF 01GQ1112; NSF 1129855).
+
+    - Data management technology (DataLad) employed for this research was supported by US-German CRCNS project,
+      co-funded by the BMBF and the US National Science Foundation (BMBF 01GQ1411; NSF 1429999)."
+
+
+  standard:
+   - BIDS
+
+  funding:
+    - DFG PO 548/15-1
+    - BMBF 01GQ1112
+    - NSF 1129855
+    - BMBF 01GQ1411
+    - NSF 1429999
+
+
+person:
+  ayan.sengupta@nottingham.ac.uk:
+    given_name: Ayan
+    last_name: Sengupta
+
+  oliver.speck@ovgu.de:
+    given_name: Oliver
+    last_name: Speck
+
+  renat.yakupov@ovgu.de:
+    given_name: Renat
+    last_name: Yakupov
+
+  martin.kanowski@ovgu.de:
+    given_name: Martin
+    last_name: Kanowski
+
+  claus.tempelmann@ovgu.de:
+    given_name: Claus
+    last_name: Tempelmann
+
+  stefan.pollmann@ovgu.de:
+    given_name: Stefan
+    last_name: Pollmann
+
+  m.hanke@fz-juelich.de:
+    given_name: Michael
+    last_name: Hanke
+    title: Prof. Dr.
+
+
+publication:
+  - title: "The effect of acquisition resolution on orientation decoding from V1: comparison of 3T and 7T"
+    author:
+      - ayan.sengupta@nottingham.ac.uk
+      - oliver.speck@ovgu.de
+      - renat.yakupov@ovgu.de
+      - martin.kanowski@ovgu.de
+      - claus.tempelmann@ovgu.de
+      - stefan.pollmann@ovgu.de
+      - m.hanke@fz-juelich.de
+
+    year: 2018
+    publication: bioRxiv
+    doi: [DOI: 10.1101/305417]
+
+  - title: "Spatial band-pass filtering aids decoding musical genres from auditory cortex 7T fMRI"
+    author:
+      - ayan.sengupta@nottingham.ac.uk
+      - stefan.pollmann@ovgu.de
+      - m.hanke@fz-juelich.de
+
+    year: 2018
+    publication: F1000Research
+    volume: 7
+    doi: [DOI: 10.12688/f1000research.13689.2]
+
+  - title: "The effect of acquisition resolution on orientation decoding from V1 BOLD fMRI at 7 Tesla"
+    author:
+      - ayan.sengupta@nottingham.ac.uk
+      - renat.yakupov@ovgu.de
+      - oliver.speck@ovgu.de
+      - stefan.pollmann@ovgu.de
+      - m.hanke@fz-juelich.de
+
+    year: 2017
+    publication: NeuroImage
+    volume: 148
+    pages: 64-76
+    doi: [DOI: 10.1016/j.neuroimage.2016.12.040]
+
+  - title: "Ultra high-field multi-resolution fMRI data for orientation decoding in visual cortex"
+    author:
+      - ayan.sengupta@nottingham.ac.uk
+      - renat.yakupov@ovgu.de
+      - oliver.speck@ovgu.de
+      - stefan.pollmann@ovgu.de
+      - m.hanke@fz-juelich.de
+
+    year: 2017
+    publication: Data in Brief
+    volume: 13
+    pages: 219-222
+    doi: [DOI: 10.1016/j.dib.2017.05.014]

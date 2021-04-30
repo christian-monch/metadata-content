@@ -1,0 +1,42 @@
+study:
+  name: Stimulus annotations for the movie Forrest Gump
+
+  keyword:
+    - studyforrest
+
+  principal_investigator: m.hanke@fz-juelich.de
+
+  #contributor:
+  #  - b@fz-juelich.de
+  #  - c@fz-juelich.de
+
+  #funding: NIH study funds
+
+dataset:
+  name: Stimulus annotations for the movie Forrest Gump
+  location: https://github.com/psychoinformatics-de/studyforrest-data-annotations
+  description:
+    "This repository collects stimulus annotations for the research cut of the
+     'Forrest Gump' movie used in the studyforrest.org-project]. Annotations
+     are collected from various contributors and publications."
+
+  #standard:
+  #  - dicom
+  #  - nifti
+  #  - bids
+
+  keyword:
+    - studyforrest
+
+  author:
+    - m.hanke@fz-juelich.de
+
+  #funding:
+  #  - DFG dataset funds
+  #  - NIH dataset funds
+
+person:
+  m.hanke@fz-juelich.de:
+    given_name: Michael
+    last_name: Hanke
+    title: Prof. Dr.

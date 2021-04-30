@@ -1,0 +1,77 @@
+study:
+  name: some_study studyforrest_multires7t
+  keyword: some_keyword
+  principal_investigator: m.hanke@fz-juelich.de
+
+dataset:
+  name: studyforrest_multires7t
+
+  location: https://github.com/psychoinformatics-de/studyforrest-data-multires7t
+
+  author:
+    - ayan.sengupta@nottingham.ac.uk
+    - renat.yakupov@ovgu.de
+    - oliver.speck@ovgu.de
+    - stefan.pollmann@ovgu.de
+    - m.hanke@fz-juelich.de
+
+  description:
+    "Extension of the dataset published in Hanke et al.
+     (2014; doi:10.1038/sdata.2014.3) with additional acquisitions for 6
+     of the original 20 participants (and one additional participant).
+     Participants performed a central fixation task while being
+     stimulated with oriented gratings. The experiment was repeated in
+     four different sessions with 7T BOLD fMRI acquisition, each with a
+     different scan resolution (0.8, 1.4, 2.0, and 3.0 mm).
+
+     This research was supported by a grant from the German Research
+     Foundation (DFG) awarded to S. Pollmann and O. Speck (DFG PO 548/15-1).
+     This research was, in part, also supported by the German Federal
+     Ministry of Education and Research (BMBF) as part of a US-German
+     collaboration in computational neuroscience (CRCNS), co-funded by the
+     BMBF and the US National Science Foundation (BMBF 01GQ1112; NSF 1129855).
+     Work on the data-sharing technology employed for this research was
+     supported by US-German CRCNS project, co-funded by the BMBF and the US
+     National Science Foundation (BMBF 01GQ1411; NSF 1429999)."
+
+
+  standard:
+   - BIDS
+
+  funding:
+    - DFG PO 548/15-1
+    - BMBF 01GQ1112
+    - NSF 1129855
+    - BMBF 01GQ1411
+    - NSF 1429999
+
+
+person:
+  ayan.sengupta@nottingham.ac.uk:
+    given_name: Ayan
+    last_name: Sengupta
+
+  oliver.speck@ovgu.de:
+    given_name: Oliver
+    last_name: Speck
+
+  renat.yakupov@ovgu.de:
+    given_name: Renat
+    last_name: Yakupov
+
+  martin.kanowski@ovgu.de:
+    given_name: Martin
+    last_name: Kanowski
+
+  claus.tempelmann@ovgu.de:
+    given_name: Claus
+    last_name: Tempelmann
+
+  stefan.pollmann@ovgu.de:
+    given_name: Stefan
+    last_name: Pollmann
+
+  m.hanke@fz-juelich.de:
+    given_name: Michael
+    last_name: Hanke
+    title: Prof. Dr.

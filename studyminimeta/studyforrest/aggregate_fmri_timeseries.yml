@@ -1,0 +1,60 @@
+# Complete study metadata example conforming to ../schema/archive_metadata.yml
+study:
+  name: aggregate_fmri_timeseries
+  purpose:
+    Identify what determines intelligence
+    in rodents and whether it is related
+    to food.
+  start_date: 31.10.1990
+  end_date: 2010-12-22
+  keyword:
+    - Rodent
+    - Intelligence boost
+    - Food
+  principal_investigator: a@fz-juelich.de
+  contributor:
+    - b@fz-juelich.de
+    - c@fz-juelich.de
+  funding: NIH study funds
+
+dataset:
+
+  name: aggregate_fmri_timeseries
+
+  location: https://github.com/psychoinformatics-de/studyforrest-data-aggregate
+
+  #description:
+  #  Lorem ipsum dolor sit amet,
+  #  incidunt ut labore et dolore
+  #  nostrud exercitation ullamco
+
+  #standard:
+  #  - BIDS
+
+  keyword:
+    - studyforrest
+
+  author:   # Taken from github contributors
+    - m.hanke@fz-juelich.de
+    - a.wagner@fz-juelich.de
+    - l.waite@fz-juelich.de
+
+  #funding:
+  #  - DFG dataset funds
+  #  - NIH dataset funds
+
+
+person:
+  m.hanke@fz-juelich.de:
+    given_name: Michael
+    last_name: Hanke
+    title: Prof. Dr.
+
+  a.wagner@fz-juelich.de:
+    given_name: Adina
+    last_name: Wagner
+    title: M.Sc.
+
+  l.waite@fz-juelich.de:
+    given_name: Laura
+    last_name: Waite

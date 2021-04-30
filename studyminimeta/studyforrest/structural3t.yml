@@ -1,0 +1,31 @@
+study:
+  name: some_study studyforrest_data_structural
+  keyword: some_keyword
+  principal_investigator: m.hanke@fz-juelich.de
+
+
+dataset:
+  name: studyforrest_data_structural
+
+  location: https://github.com/psychoinformatics-de/studyforrest-data-structural/
+
+  author:
+    - m.hanke@fz-juelich.de
+
+  description:
+    "This dataset contains T1 and T2 weighted MRI scans, susceptibility
+    weighted images, and diffusion imaging scans. These data are suitable
+    for analyses of brain structure.
+
+    For more information about the project visit: http://studyforrest.org"
+
+  standard:
+   - BIDS
+
+
+person:
+
+  m.hanke@fz-juelich.de:
+    given_name: Michael
+    last_name: Hanke
+    title: Prof. Dr.
