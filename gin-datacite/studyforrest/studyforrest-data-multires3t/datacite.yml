@@ -1,0 +1,117 @@
+# Metadata for DOI registration according to DataCite Metadata Schema 4.1.
+# For detailed schema description see https://doi.org/10.5438/0014
+
+## Required fields
+
+# The main researchers involved. Include digital identifier (e.g., ORCID)
+# if possible, including the prefix to indicate its type.
+authors:
+  - firstname: Ayan
+    lastname: Sengupta
+
+  - firstname: Oliver
+    lastname: Speck
+
+  - firstname: Renat
+    lastname: Yakupov
+
+  - firstname: Martin
+    lastname: Kanowski
+
+  - firstname: Claus
+    lastname: Tempelmann
+
+  - firstname: Stefan
+    lastname: Pollmann
+
+  - firstname: Michael
+    lastname: Hanke
+    id: "ORCID:0000-0001-6398-6370"
+
+  - firstname: Adina
+    lastname: Wagner
+    id: "ORCID:0000-0003-2917-3450"
+
+  - firstname: Laura
+    lastname: Waite
+    id: "ORCID:0000-0003-2213-7465"
+
+
+# A title to describe the published resource.
+title: studyforrest_multires3t
+
+
+# Additional information about the resource, e.g., a brief abstract.
+description: |
+    "Extension of a matching fMRI dataset (Sengupta, et al., 2017; OpenFMRI ds000113c) on participants performing a
+     central fixation task while being stimulated with oriented visual gratings. This dataset extends the previous one
+     with acquisitions for 3 matching spatial resolutions (1.4, 2.0, and 3.0 mm) at 3T (complementing the previous 7T
+     acquisitions at 0.8, 1.4, 2.0, and 3.0 mm). Five of the total of seven participants are identical in both datasets.
+     All participants are part of the studyforrest.org project.
+
+    - This research was enabled by a grant from the German Research Foundation (DFG) awarded to S. Pollmann and
+      O. Speck (DFG PO 548/15-1).
+
+    - This research was, in part, also supported by the German Federal Ministry of Education and Research (BMBF) as
+      part of a US-German collaboration in computational neuroscience (CRCNS), co-funded by the BMBF and the US
+      National Science Foundation (BMBF 01GQ1112; NSF 1129855).
+
+    - Data management technology (DataLad) employed for this research was supported by US-German CRCNS project,
+      co-funded by the BMBF and the US National Science Foundation (BMBF 01GQ1411; NSF 1429999)."
+
+
+# Lit of keywords the resource should be associated with.
+# Give as many keywords as possible, to make the resource findable.
+keywords:
+  - Neuroscience
+  - Studyforrest
+  - BIDS
+
+
+# License information for this resource. Please provide the license name and/or a link to the license.
+# Please add also a corresponding LICENSE file to the repository.
+license:
+  name: "Open Data Commons Public Domain Dedication and License (PDDL)"
+  url: "https://opendatacommons.org/licenses/pddl/"
+
+
+## Optional Fields
+
+# Funding information for this resource.
+# Separate funder name and grant number by comma.
+funding:
+  - "DFG, PO 548/15-1"
+  - "BMBF, 01GQ1112"
+  - "NSF, 1129855"
+  - "BMBF, 01GQ1411"
+  - "NSF, 1429999"
+
+
+# Related publications. reftype might be: IsSupplementTo, IsDescribedBy, IsReferencedBy.
+# Please provide digital identifier (e.g., DOI) if possible.
+# Add a prefix to the ID, separated by a colon, to indicate the source.
+# Supported sources are: DOI, arXiv, PMID
+# In the citation field, please provide the full reference, including title, authors, journal etc.
+references:
+  - id: "doi:10.1101/305417"
+    reftype: "IsSupplementTo"
+    citation: "Sengupta, A., Speck, O., Yakupov, R., Kanowski, M., Tempelmann, C., Pollmann, S. & Hanke, M. (2018) The effect of acquisition resolution on orientation decoding from V1: comparison of 3T and 7T. bioRxiv.",
+
+  - id: "doi:10.12688/f1000research.13689.2"
+    reftype: "IsSupplementTo"
+    citation: "Sengupta, A., Pollmann, S. & Hanke, M. (2018). Spatial band-pass filtering aids decoding musical genres from auditory cortex 7T fMRI. F1000Research, 7."
+
+  - id: "doi:10.1016/j.neuroimage.2016.12.040"
+    reftype: "IsSupplementTo"
+    citation: "Sengupta, A., Yakupov, R., Speck, O., Pollmann, S. & Hanke, M. (2017) The effect of acquisition resolution on orientation decoding from V1 BOLD fMRI at 7 Tesla. NeuroImage, 148, 64-76.",
+
+  - id: "doi:10.1016/j.dib.2017.05.014"
+    reftype: "IsSupplementTo"
+    citation: "Sengupta, A., Yakupov, R., Speck, O., Pollmann, S. & Hanke, M. (2017) Ultra high-field multi-resolution fMRI data for orientation decoding in visual cortex. Data in Brief, 13, 219-222."
+
+
+# Resource type. Default is Dataset, other possible values are Software, Image, Text.
+resourcetype: Dataset
+
+# Do not edit or remove the following line
+templateversion: 1.2

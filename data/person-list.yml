@@ -279,6 +279,7 @@ person:
     given_name: Christian
     last_name: Häusler
     title: M.Sc.
+    orcid-id: "0000-0002-0936-317X"
 
   c.huesgen@fz-juelich.de:
     given_name: Cordula

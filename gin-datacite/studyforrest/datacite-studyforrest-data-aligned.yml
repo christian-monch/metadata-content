@@ -1,0 +1,61 @@
+# Metadata for DOI registration according to DataCite Metadata Schema 4.1.
+# For detailed schema description see https://doi.org/10.5438/0014
+
+authors:
+  - firstname: Michael
+    lastname: Hanke
+    id: "ORCID:0000-0001-6398-6370"
+
+
+title: Pre-aligned MRI Data
+
+
+description: |
+  "This repository contains data derived from the raw data releases of the
+   studyforrest.org project. In particular these are:
+
+     - BOLD fMRI timeseries aligned to subject-specific template images and
+       using transformations available from
+       https://github.com/psychoinformatics-de/studyforrest-data-templatetransforms
+
+   For more information about the project visit: http://studyforrest.org"
+
+
+keywords:
+  - Neuroscience
+  - Studyforrest
+
+
+license:
+  name: "Open Data Commons Public Domain Dedication and License (PDDL)"
+  url: "https://opendatacommons.org/licenses/pddl/"
+
+
+#funding:
+#  - "BMBF, 01GQ1112"
+#  - "NSF, 1129855"
+#  - "BMBF, 01GQ1411"
+#  - "NSF, 1429999"
+
+
+# Related publications. reftype might be: IsSupplementTo, IsDescribedBy, IsReferencedBy.
+# Please provide digital identifier (e.g., DOI) if possible.
+# Add a prefix to the ID, separated by a colon, to indicate the source.
+# Supported sources are: DOI, arXiv, PMID
+# In the citation field, please provide the full reference, including title, authors, journal etc.
+#references:
+#  - id: "doi:10.1038/sdata.2016.93"
+#    reftype: "IsSupplementTo"
+#    citation: "Sengupta, A., Kaule, F. R., Guntupalli, J. S., Hoffmann, M. B., Häusler, C., Stadler, J., Hanke, M. (2016). A studyforrest extension, retinotopic mapping and localization of higher visual areas. Scientific Data, 3, 160093."
+
+#  - id: "doi:10.1038/sdata.2016.92"
+#    reftype: "IsSupplementTo"
+#    citation: "Hanke, M, Adelhöfer, N, Kottke, D, Iacovella, V, Sengupta, A, Kaule, FR, Nigbur, R, Waite, AQ, Baumgartner, F, Stadler, J (2016). A studyforrest extension, simultaneous fMRI and eye gaze recordings during prolonged natural stimulation. Scientific Data, 3, 160092."
+
+
+# Resource type. Default is Dataset, other possible values are Software, Image, Text.
+resourcetype: Dataset
+
+
+# Do not edit or remove the following line
+templateversion: 1.2
