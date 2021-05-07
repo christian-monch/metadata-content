@@ -6,6 +6,9 @@ authors:
     lastname: Hanke
     id: "ORCID:0000-0001-6398-6370"
 
+  - firstname: Nico
+    lastname: Adelhöfer
+    
   - firstname: Falko R.
     lastname: Kaule
 
@@ -20,7 +23,6 @@ authors:
 
   - firstname: Christian
     lastname: Häusler
-    id: "ORCID:0000-0002-0936-317X"
 
   - firstname: Michael
     lastname: Hoffmann
@@ -34,6 +36,12 @@ authors:
   - firstname: Jörg
     lastname: Stadler
 
+  - firstname: Roland
+    lastname: Nigbur
+
+  - firstname: Alexander Q.
+    lastname: Waite
+    
   - firstname: Adina
     lastname: Wagner
     id: "ORCID:0000-0003-2917-3450"
@@ -42,8 +50,9 @@ authors:
     lastname: Waite
     id: "ORCID:0000-0003-2213-7465"
 
-  - firstname: William
-    lastname: Triplett
+  - firstname: Christian
+    lastname: Mönch
+    id: "ORCID:0000-0002-3092-0612"
 
 
 title: "Simultaneous fMRI/eyetracking while movie watching, plus visual localizers"
@@ -89,6 +98,13 @@ description: |
    (BMBF 01GQ1411; NSF 1429999)."
 
 
+funding:
+  - "BMBF, 01GQ1112"
+  - "NSF, 1129855"
+  - "BMBF, 01GQ1411"
+  - "NSF, 1429999"
+
+
 keywords:
   - Neuroscience
   - Studyforrest
@@ -98,13 +114,6 @@ keywords:
 license:
   name: "Open Data Commons Public Domain Dedication and License (PDDL)"
   url: "https://opendatacommons.org/licenses/pddl/"
-
-
-funding:
-  - "BMBF, 01GQ1112"
-  - "NSF, 1129855"
-  - "BMBF, 01GQ1411"
-  - "NSF, 1429999"
 
 
 # Related publications. reftype might be: IsSupplementTo, IsDescribedBy, IsReferencedBy.

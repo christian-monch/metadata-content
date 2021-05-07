@@ -35,11 +35,14 @@ authors:
   - firstname: Laura
     lastname: Waite
     id: "ORCID:0000-0003-2213-7465"
+    
+  - firstname: Christian
+    lastname: Mönch
+    id: "ORCID:0000-0002-3092-0612"
 
 
 # A title to describe the published resource.
 title: studyforrest_multires3t
-
 
 # Additional information about the resource, e.g., a brief abstract.
 description: |
@@ -59,14 +62,12 @@ description: |
     - Data management technology (DataLad) employed for this research was supported by US-German CRCNS project,
       co-funded by the BMBF and the US National Science Foundation (BMBF 01GQ1411; NSF 1429999)."
 
-
 # Lit of keywords the resource should be associated with.
 # Give as many keywords as possible, to make the resource findable.
 keywords:
   - Neuroscience
   - Studyforrest
   - BIDS
-
 
 # License information for this resource. Please provide the license name and/or a link to the license.
 # Please add also a corresponding LICENSE file to the repository.
@@ -93,19 +94,20 @@ funding:
 # Supported sources are: DOI, arXiv, PMID
 # In the citation field, please provide the full reference, including title, authors, journal etc.
 references:
-  - id: "doi:10.1101/305417"
-    reftype: "IsSupplementTo"
-    citation: "Sengupta, A., Speck, O., Yakupov, R., Kanowski, M., Tempelmann, C., Pollmann, S. & Hanke, M. (2018) The effect of acquisition resolution on orientation decoding from V1: comparison of 3T and 7T. bioRxiv.",
 
-  - id: "doi:10.12688/f1000research.13689.2"
+  - id: "DOI:10.1101/305417"
+    reftype: "IsSupplementTo"
+    citation: "Sengupta, A., Speck, O., Yakupov, R., Kanowski, M., Tempelmann, C., Pollmann, S. & Hanke, M. (2018) The effect of acquisition resolution on orientation decoding from V1: comparison of 3T and 7T. bioRxiv."
+
+  - id: "DOI:10.12688/f1000research.13689.2"
     reftype: "IsSupplementTo"
     citation: "Sengupta, A., Pollmann, S. & Hanke, M. (2018). Spatial band-pass filtering aids decoding musical genres from auditory cortex 7T fMRI. F1000Research, 7."
 
-  - id: "doi:10.1016/j.neuroimage.2016.12.040"
+  - id: "DOI:10.1016/j.neuroimage.2016.12.040"
     reftype: "IsSupplementTo"
-    citation: "Sengupta, A., Yakupov, R., Speck, O., Pollmann, S. & Hanke, M. (2017) The effect of acquisition resolution on orientation decoding from V1 BOLD fMRI at 7 Tesla. NeuroImage, 148, 64-76.",
+    citation: "Sengupta, A., Yakupov, R., Speck, O., Pollmann, S. & Hanke, M. (2017) The effect of acquisition resolution on orientation decoding from V1 BOLD fMRI at 7 Tesla. NeuroImage, 148, 64-76."
 
-  - id: "doi:10.1016/j.dib.2017.05.014"
+  - id: "DOI:10.1016/j.dib.2017.05.014"
     reftype: "IsSupplementTo"
     citation: "Sengupta, A., Yakupov, R., Speck, O., Pollmann, S. & Hanke, M. (2017) Ultra high-field multi-resolution fMRI data for orientation decoding in visual cortex. Data in Brief, 13, 219-222."
 

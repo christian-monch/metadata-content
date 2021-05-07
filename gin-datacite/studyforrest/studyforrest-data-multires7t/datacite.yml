@@ -1,20 +1,15 @@
 # The main researchers involved. Include digital identifier (e.g., ORCID)
 # if possible, including the prefix to indicate its type.
 authors:
-  - firstname: Ayan
-    lastname: Sengupta
+  - firstname: Michael
+    lastname: Hanke
+    id: "ORCID:0000-0001-6398-6370"
 
-  - firstname: Oliver
-    lastname: Speck
+  - firstname: Florian J.
+    lastname: Baumgartner
 
   - firstname: Pierre
     lastname: Ibe
-
-  - firstname: Florian
-    lastname: Baumgartner
-
-  - firstname: Renat
-    lastname: Yakupov
 
   - firstname: Falko R.
     lastname: Kaule
@@ -22,22 +17,32 @@ authors:
   - firstname: Stefan
     lastname: Pollmann
 
+  - firstname: Oliver
+    lastname: Speck
+    
   - firstname: Wolf
     lastname: Zinke
 
   - firstname: Jörg
     lastname: Stadler
 
-  - firstname: Michael
-    lastname: Hanke
-    id: "ORCID:0000-0001-6398-6370"
-
+  - firstname: Ayan
+    lastname: Sengupta
+    
   - firstname: Adina
     lastname: Wagner
     id: "ORCID:0000-0003-2917-3450"
 
+  - firstname: Laura
+    lastname: Waite
+    id: "ORCID:0000-0003-2213-7465"
+
   - firstname: William
     lastname: Triplett
+
+  - firstname: Christian
+    lastname: Mönch
+    id: "ORCID:0000-0002-3092-0612"
 
 
 # A title to describe the published resource.
@@ -99,10 +104,8 @@ references:
     reftype: "IsSupplementTo"
     citation: "Hanke, M., Baumgartner, F., Ibe, P. et al. A high-resolution 7-Tesla fMRI dataset from complex natural stimulation with an audio movie. Sci Data 1, 140003 (2014)."
 
-
 # Resource type. Default is Dataset, other possible values are Software, Image, Text.
 resourcetype: Dataset
-
 
 # Do not edit or remove the following line
 templateversion: 1.2

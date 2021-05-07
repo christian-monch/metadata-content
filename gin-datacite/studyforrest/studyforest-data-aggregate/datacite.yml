@@ -7,19 +7,24 @@ authors:
     lastname: Hanke
     id: "ORCID:0000-0001-6398-6370"
 
+  - firstname: Adina
+    lastname: Wagner
+    id: "ORCID:0000-0003-2917-3450"
+
+  - firstname: Laura
+    lastname: Waite
+    id: "ORCID:0000-0003-2213-7465"
+    
+  - firstname: Christian
+    lastname: Mönch
+    id: "ORCID:0000-0002-3092-0612"
+
 
 title: "Aggregate fMRI time series"
 
 
 description: |
   "This dataset is part of the studyforrest datasets."
-
-
-#funding:
-#  - "BMBF, 01GQ1112"
-#  - "NSF, 1129855"
-#  - "BMBF, 01GQ1411"
-#  - "NSF, 1429999"
 
 
 keywords:
@@ -30,17 +35,6 @@ keywords:
 license:
   name: "Open Data Commons Public Domain Dedication and License (PDDL)"
   url: "https://opendatacommons.org/licenses/pddl/"
-
-
-# Related publications. reftype might be: IsSupplementTo, IsDescribedBy, IsReferencedBy.
-# Please provide digital identifier (e.g., DOI) if possible.
-# Add a prefix to the ID, separated by a colon, to indicate the source.
-# Supported sources are: DOI, arXiv, PMID
-# In the citation field, please provide the full reference, including title, authors, journal etc.
-#references:
-#  - id: "doi:10.1038/sdata.2016.93"
-#    reftype: "IsSupplementTo"
-#    citation: "Sengupta, A., Kaule, F. R., Guntupalli, J. S., Hoffmann, M. B., Häusler, C., Stadler, J., Hanke, M. (2016). A studyforrest extension, retinotopic mapping and localization of higher visual areas. Scientific Data, 3, 160093."
 
 
 # Resource type. Default is Dataset, other possible values are Software, Image, Text.
